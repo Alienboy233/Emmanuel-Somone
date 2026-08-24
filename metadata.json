@@ -1,0 +1,6 @@
+{
+  "name": "Creative Invoice & Receipt Studio",
+  "description": "Professional invoice & receipt management platform built for creative agencies, designers, photographers, printing hubs, and sign makers with multi-currency, payment tracking, and customizable PDF templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
